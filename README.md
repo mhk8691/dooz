@@ -1,2 +1,2 @@
-# dooz
-Dooz project in C++ console
+# tic-tac-toe
+tic-tac-toe project in C++ console
